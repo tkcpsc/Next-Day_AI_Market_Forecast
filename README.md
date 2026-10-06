@@ -1,6 +1,6 @@
 # README: How to Run the Application
 
-### Authors: Thomas Kudey, Chiron Martini, Ryan Corvi
+### Authors: Thomas Kudey
 
 This guide explains how to set up and run the Shiny-based application for analyzing stock data and articles.
 
